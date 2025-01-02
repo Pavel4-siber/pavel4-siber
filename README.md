@@ -4,14 +4,14 @@
 
 <br>
 <p align="center">
-  Hi, I'm Pavel Zhurenkov, Java Backend Developer and I like Java
+  Hi, I'm Pavel Zhurenkov, Java Backend Developer
   <br>
   <br>
   рџ“« How to reach me: <a href="mailto: pavelzhurenkov@gmail.com">pavelzhurenkov@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">рџ›  My fancy badge area</h2>
+<h2 align="center">🛠  My fancy badge area</h2>
 <br>
 
 ![java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&color=%23EA7E20)
