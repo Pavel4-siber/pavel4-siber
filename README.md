@@ -7,7 +7,7 @@
   Hi, I'm Pavel Zhurenkov, Java Backend Developer
   <br>
   <br>
-  рџ“« How to reach me: <a href="mailto: pavelzhurenkov@gmail.com">pavelzhurenkov@gmail.com</a>
+  📫 How to reach me: <a href="mailto: pavelzhurenkov@gmail.com">pavelzhurenkov@gmail.com</a>
 </p>
 
 <hr>
