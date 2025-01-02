@@ -11,7 +11,7 @@
 </p>
 
 <hr>
-<h2 align="center">🛠  My fancy badge area</h2>
+<h2 align="center">🛠  My area</h2>
 <br>
 
 ![java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&color=%23EA7E20)
